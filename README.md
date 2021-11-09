@@ -7,4 +7,4 @@ Por una parte, la aplicación calculará el rendimiento máximo que se le puede 
 Y por otro lado, será capaz de predecir los mejores momentos para recolectar la aceituna, conociendo el histórico de otros años e indicando cuando es mejor vender X tipo de aceituna, conociendo la cantidad de ese producto por la zona y conociendo el tiempo de ese año en comparación al resto.
 
 ## Documentación
-Para acceder a la documentación entre en el siguiente enlace [Documentación]{docs/README.md}
+Para acceder a la documentación entre en el siguiente enlace [Documentación](docs/README.md)
