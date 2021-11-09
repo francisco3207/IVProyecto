@@ -1,13 +1,10 @@
-# Objetivo 0
+# Documentación objetivo 1
 
-Se trata de poner a punto las herramientas que vamos a usar durante el curso.
+## Tipos de usuario
 
-## Creación de par de claves y subida de clave pública a GitHub.
+La aplicación estará destinada a un usuario en especifico.
+-Agricultor: será el consultor que busque información sobre el precio del aceite en diferentes mercados y/o el mejor tiempo para cosechar y si se espera una subida o bajada del precio.
 
-![CrearClave](imgs/crear_clave.png)
-![CrearClave2](imgs/crear_clave2.png)
-![configuracion](imgs/configuracion_github.png)
+## Ejemplo de usuario:
 
-## Edicion perfil Github
-
-![avatar](imgs/avatar_github.png)
+-Juan es un hombre de 55 años que tiene una finca de 3 hectáreas plantadas con olivos. Está preocupado porque varios de sus contactos han vendido su cosecha por un precio diferente al suyo.
