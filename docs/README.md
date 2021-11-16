@@ -15,7 +15,4 @@ A Juan le gustaría saber el precio del aceite en otras cooperativas para compar
 
 ## Historias de usuario
 
-- [HU1](https://github.com/francisco3207/IVProyecto/issues/5): Como agricultor, quiero saber el precio actual del aceite para su venta.
-- [HU2](https://github.com/francisco3207/IVProyecto/issues/6): Como agricultor, quiero saber la evolución del precio del aceite con respecto al tiempo.
-- [HU3](https://github.com/francisco3207/IVProyecto/issues/7): Como agricultor, me gustaría poder predecir aproximadamente el valor de mi cosecha.
--  [HU4](https://github.com/francisco3207/IVProyecto/issues/8): Como agricultor, me gustaría saber cual es la inversión, conociendo mi capital y tiempo en el que quiero recibir las ganancias, que más rendimiento me den.
+- [HU1](https://github.com/francisco3207/IVProyecto/issues/7): Como agricultor, me gustaría poder predecir aproximadamente el valor de mi cosecha.
