@@ -1,13 +1,18 @@
-# Objetivo 0
+# Documentación objetivo 1
 
-Se trata de poner a punto las herramientas que vamos a usar durante el curso.
+## Tipos de usuario
 
-## Creación de par de claves y subida de clave pública a GitHub.
+La aplicación estará destinada a un usuario en especifico.
+- Agricultor: será el consultor que busque información sobre el precio del aceite en diferentes mercados y/o el mejor tiempo para cosechar y si se espera una subida o bajada del precio.
 
-![CrearClave](imgs/crear_clave.png)
-![CrearClave2](imgs/crear_clave2.png)
-![configuracion](imgs/configuracion_github.png)
+## Ejemplo de usuario:
 
-## Edicion perfil Github
+- Juan es un hombre de 55 años que tiene una finca de 3 hectáreas plantadas con olivos. Está preocupado porque varios de sus contactos han vendido su cosecha por un precio diferente al suyo.
 
-![avatar](imgs/avatar_github.png)
+## User journey
+
+A Juan le gustaría saber el precio del aceite en otras cooperativas para comparar precios, además tambien quiere saber cuando es el mejor momento para vender su cosecha y cual es el tipo de aceite más demandado por si decide hacer una inversión en un futuro.
+
+## Historias de usuario
+
+- [HU1](https://github.com/francisco3207/IVProyecto/issues/7): Como agricultor, me gustaría poder predecir aproximadamente el valor de mi cosecha.
