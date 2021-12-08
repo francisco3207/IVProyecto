@@ -8,12 +8,11 @@ class Producto:
     tipo, y la fecha en la que se realizo el plantado.
     '''
 
-    def __init__(self, tipo: str, rendimiento_base: float, fecha_plantado):
+    def __init__(self, tipo: str, rendimiento_base: float):
         '''Initializes the product
         '''
         self.tipo = tipo
         self.rendimiento_base = rendimiento_base
-        self.fecha_plantado = fecha_plantado
         self.kgs_recogidos = 0
         self.fecha_recolectado = None
 
