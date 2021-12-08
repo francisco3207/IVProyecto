@@ -27,12 +27,6 @@ class Producto:
         self.kgs_recogidos = kgs_recogidos
         self.fecha_recolectado = fecha_recolectado
 
-    def predecir_rendimiento(self, fecha) -> float:
-        '''Calcular el rendimiento a partir del tipo de aceituna y del tiempo
-        que llevará en el olivo y devolverá el porcentaje de rendimiento.
-        fecha: momento sobre el que queremos predecir el rendimiento
-        '''
-
     def calcular_aceite(self, fecha) -> float:
         '''Calcular la cantidad de aceite en kgs que se producirá a partir
         de la cantidad de aceitunas recogidas, segun el rendimiento en un
